@@ -15,6 +15,7 @@
 		E6DCAE672C7F17F1008F8070 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = E6DCAE662C7F17F1008F8070 /* Base */; };
 		E6DCAE702C7F1BBD008F8070 /* ProductCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6DCAE6E2C7F1BBD008F8070 /* ProductCollectionViewCell.swift */; };
 		E6DCAE712C7F1BBD008F8070 /* ProductCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = E6DCAE6F2C7F1BBD008F8070 /* ProductCollectionViewCell.xib */; };
+		E6DCAE732C7F1DE1008F8070 /* Products.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6DCAE722C7F1DE1008F8070 /* Products.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		E6DCAE682C7F17F1008F8070 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E6DCAE6E2C7F1BBD008F8070 /* ProductCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCollectionViewCell.swift; sourceTree = "<group>"; };
 		E6DCAE6F2C7F1BBD008F8070 /* ProductCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProductCollectionViewCell.xib; sourceTree = "<group>"; };
+		E6DCAE722C7F1DE1008F8070 /* Products.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Products.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			isa = PBXGroup;
 			children = (
 				E6DCAE5A2C7F17EF008F8070 /* AppDelegate.swift */,
+				E6DCAE722C7F1DE1008F8070 /* Products.swift */,
 				E6DCAE5C2C7F17EF008F8070 /* SceneDelegate.swift */,
 				E6DCAE5E2C7F17EF008F8070 /* ViewController.swift */,
 				E6DCAE6E2C7F1BBD008F8070 /* ProductCollectionViewCell.swift */,
@@ -147,6 +150,7 @@
 			files = (
 				E6DCAE5F2C7F17EF008F8070 /* ViewController.swift in Sources */,
 				E6DCAE5B2C7F17EF008F8070 /* AppDelegate.swift in Sources */,
+				E6DCAE732C7F1DE1008F8070 /* Products.swift in Sources */,
 				E6DCAE702C7F1BBD008F8070 /* ProductCollectionViewCell.swift in Sources */,
 				E6DCAE5D2C7F17EF008F8070 /* SceneDelegate.swift in Sources */,
 			);
